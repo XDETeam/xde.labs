@@ -1,0 +1,5 @@
+CREATE EXTENSION plpython3u;
+
+CREATE DATABASE messh;
+
+-- TODO: CREATE USER username WITH SUPERUSER PASSWORD 'passwordstring';
